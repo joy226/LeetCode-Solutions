@@ -6,7 +6,7 @@ class Solution {
             int mid = s + (e - s) / 2;
             if(letters[mid] > target){
                 e = mid - 1;
-            } else if(letters[mid] <= target){  //if is didn't add equalt to condition it will become an infinite loop beacuse s will always equal to e and the while loop will continue.
+            } else {  //if is didn't add equalt to condition it will become an infinite loop beacuse s will always equal to e and the while loop will continue.
                 s = mid + 1;
             }
         }
