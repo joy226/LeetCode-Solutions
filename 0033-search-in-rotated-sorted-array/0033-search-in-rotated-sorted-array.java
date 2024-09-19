@@ -9,9 +9,8 @@ class Solution {
         }
         if(nums[0] <= target){
             return BinarySearch(nums, target, 0, pivot - 1);
-        } else {
-            return BinarySearch(nums, target, pivot + 1, nums.length - 1);
         }
+        return BinarySearch(nums, target, pivot + 1, nums.length - 1);
     }
     static int BinarySearch(int[] arr, int target, int start, int end) {
         while (start <= end) {
