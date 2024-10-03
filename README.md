@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/joy226/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/joy226/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1694-make-sum-divisible-by-p](https://github.com/joy226/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1791-richest-customer-wealth](https://github.com/joy226/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/joy226/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1694-make-sum-divisible-by-p](https://github.com/joy226/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 ## Bit Manipulation
 |  |
 | ------- |
