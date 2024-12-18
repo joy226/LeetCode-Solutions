@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/joy226/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/joy226/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/joy226/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/joy226/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/joy226/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/joy226/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
