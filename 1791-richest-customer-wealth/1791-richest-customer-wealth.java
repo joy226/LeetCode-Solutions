@@ -10,7 +10,6 @@ class Solution {
             if(amount > max){
                 max = amount;
             }
-
         }
         return max;
     }
