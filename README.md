@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/joy226/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/joy226/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/joy226/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/joy226/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/joy226/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/joy226/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
