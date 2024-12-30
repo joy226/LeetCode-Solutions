@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/joy226/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/joy226/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0898-transpose-matrix](https://github.com/joy226/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/joy226/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1372-check-if-it-is-a-good-array](https://github.com/joy226/LeetCode-Solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/joy226/LeetCode-Solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/joy226/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/joy226/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/joy226/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/joy226/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/joy226/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/joy226/LeetCode-Solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/joy226/LeetCode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/joy226/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
