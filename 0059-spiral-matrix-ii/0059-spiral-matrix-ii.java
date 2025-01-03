@@ -6,12 +6,6 @@ class Solution {
         int right = n - 1;
         int top = 0;
         int bottom = n - 1;
-        // for(int i = 0; i < n; i++) {
-        //     for(int j = 0; j < n; j++) {
-        //         arr[i][j] = k;
-        //         k++;
-        //     }
-        // }
         while (top <= bottom && left <= right) {
             for (int i = left; i <= right; i++) {
                 arr[top][i] = k;
