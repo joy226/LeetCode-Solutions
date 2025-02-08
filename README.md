@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/joy226/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/joy226/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1022-unique-paths-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1372-check-if-it-is-a-good-array](https://github.com/joy226/LeetCode-Solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/joy226/LeetCode-Solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/joy226/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/joy226/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/joy226/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1022-unique-paths-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1677-matrix-diagonal-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/joy226/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/joy226/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/joy226/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
+| [1022-unique-paths-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/joy226/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
@@ -162,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/joy226/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [1022-unique-paths-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
