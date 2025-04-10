@@ -1,15 +1,17 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String s = String.valueOf(x); // Convert to String
-        int n = s.length(); // Store the String length to int n
-
-        for (int i=0; i<n/2; i++) {
-            // We check whether the elements at the same distance from
-            // beginning and from ending are same, if not we return false
-            if (s.charAt(i) != s.charAt(n-i-1)) return false;
+        int a = x; // store the value of x into a
+        int b = 0; // make a new varable to store the reverse of x
+        while(a > 0) {  // start the while loop (a>0)
+            int rem = a % 10;  // to get the last digit of a
+            b = b * 10 + rem;  // add that digit into b
+            a = a / 10;  // remove the last value
         }
 
-        // if no flaws are found we return true
-        return true;
+        // if value of x == b then the number is Palindrome number else no.
+        if(x == b) {  
+            return true;
+        }
+        return false;
     }
 }
