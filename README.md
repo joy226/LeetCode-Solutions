@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/joy226/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/joy226/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/joy226/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1899-count-items-matching-a-rule](https://github.com/joy226/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/joy226/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/joy226/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
