@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/joy226/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0410-split-array-largest-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/joy226/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0410-split-array-largest-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/joy226/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/joy226/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0327-count-of-range-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,4 +188,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/joy226/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/joy226/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
