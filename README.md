@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/joy226/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/joy226/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/joy226/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/joy226/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/joy226/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
