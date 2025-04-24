@@ -15,7 +15,6 @@ class Solution {
                 unique.add(nums[i]);
             }
         }
-
         for(int i = 0; i < nums.length; i++) {
             HashSet<Integer> currentSubArray = new HashSet<Integer>();
             for(int j = i; j < nums.length; j++) {
@@ -26,6 +25,5 @@ class Solution {
             }
         }
         return count;
-
     }
 }
