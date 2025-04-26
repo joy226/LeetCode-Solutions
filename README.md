@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/joy226/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
+| [1894-merge-strings-alternately](https://github.com/joy226/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/joy226/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/joy226/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [1894-merge-strings-alternately](https://github.com/joy226/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/joy226/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/joy226/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/joy226/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
