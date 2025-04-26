@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/joy226/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0479-largest-palindrome-product](https://github.com/joy226/LeetCode-Solutions/tree/master/0479-largest-palindrome-product) |
 | [1031-add-to-array-form-of-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1372-check-if-it-is-a-good-array](https://github.com/joy226/LeetCode-Solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/joy226/LeetCode-Solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/joy226/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/joy226/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/joy226/LeetCode-Solutions/tree/master/0178-rank-scores) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/joy226/LeetCode-Solutions/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
