@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/joy226/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/joy226/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/joy226/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/joy226/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/joy226/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/joy226/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/joy226/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/joy226/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Indexed Tree
