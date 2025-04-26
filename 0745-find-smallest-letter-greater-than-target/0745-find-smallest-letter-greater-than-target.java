@@ -6,10 +6,10 @@ class Solution {
             int mid = s + (e - s) / 2;
             if(letters[mid] > target){
                 e = mid - 1;
-            } else {  //if is didn't add equalt to condition it will become an infinite loop beacuse s will always equal to e and the while loop will continue.
+            } else {
                 s = mid + 1;
             }
         }
-        return letters[s % letters.length];
+        return letters[s % letters.length]; //when my start is equal to the length of the array then to return the 0 index of array we can de (start % arr.length) = 0
     }
 }
