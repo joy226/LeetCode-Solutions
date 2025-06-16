@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2048-build-array-from-permutation](https://github.com/joy226/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/joy226/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/joy226/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/joy226/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
