@@ -1,3 +1,32 @@
+// class Solution {
+//     public boolean searchMatrix(int[][] matrix, int target) {
+//         int rowStart = 0;
+//         int rowEnd = matrix.length - 1;
+//         int start = 0;
+//         int end = matrix[0].length - 1;
+//         while(rowStart <= rowEnd) {
+//             int midRow = rowStart + (rowEnd - rowStart) / 2;
+//             if(matrix[midRow][start] < target && matrix[midRow][end] > target) {
+//                 while (start <= end) {
+//                     int mid = start + (end - start) / 2;
+//                     if(matrix[midRow][mid] == target) {
+//                         return true;
+//                     } else if (matrix[midRow][mid] > target) {
+//                         start = mid;
+//                     } else if (matrix[midRow][mid] < target) {
+//                         end = mid;
+//                     }
+//                 }
+//             } else if (matrix[midRow][end] < target) {
+//                 rowStart = midRow + 1;
+//             } else if ( matrix[midRow][start] > target) {
+//                 rowEnd = midRow - 1;
+//             }
+//         }
+//         return false;
+//     }
+// }
+
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
         int top = 0;
