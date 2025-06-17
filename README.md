@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/joy226/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/joy226/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/joy226/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -316,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/joy226/LeetCode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
