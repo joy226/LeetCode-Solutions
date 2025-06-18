@@ -2,11 +2,11 @@ class Solution {
     public int[][] divideArray(int[] nums, int k) {
         int n = nums.length;
         List<int[]> result = new ArrayList<>();
-        int sortArray[] = sort(nums);
+        Arrays.sort(nums);
         for(int i = 0; i < n; i += 3) {
-            int a = sortArray[i];
-            int b = sortArray[i + 1];
-            int c = sortArray[i + 2];
+            int a = nums[i];
+            int b = nums[i + 1];
+            int c = nums[i + 2];
 
             if(c - a > k) {
                 return new int[0][];
