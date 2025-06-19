@@ -3,11 +3,12 @@ class Solution {
         if(nums.length == 0) {
             return 0;
         }
-        int[] sortedNums = sort(nums);
+        // int[] sortedNums = sort(nums);
+        Arrays.sort(nums);
         int count  = 0;
         long minVal = -1;
-        for(int i = 0; i < sortedNums.length; i++) {
-            int num = sortedNums[i];
+        for(int i = 0; i < nums.length; i++) {
+            int num = nums[i];
             if(count == 0 || (long)num - minVal > k) {
                 count++;
                 minVal = num;
