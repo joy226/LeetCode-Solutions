@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/joy226/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/joy226/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Number Theory
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/joy226/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/joy226/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/joy226/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/joy226/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/joy226/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/joy226/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
