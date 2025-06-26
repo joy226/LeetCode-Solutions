@@ -172,11 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joy226/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/joy226/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/joy226/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/joy226/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/joy226/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/joy226/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/joy226/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/joy226/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/joy226/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/joy226/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/joy226/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
