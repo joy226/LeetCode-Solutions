@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/joy226/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1022-unique-paths-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/1022-unique-paths-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1185-find-in-mountain-array](https://github.com/joy226/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/joy226/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/joy226/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1372-check-if-it-is-a-good-array](https://github.com/joy226/LeetCode-Solutions/tree/master/1372-check-if-it-is-a-good-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/joy226/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/joy226/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1185-find-in-mountain-array](https://github.com/joy226/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/joy226/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/joy226/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/joy226/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/joy226/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/joy226/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [1185-find-in-mountain-array](https://github.com/joy226/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 ## String Matching
 |  |
 | ------- |
