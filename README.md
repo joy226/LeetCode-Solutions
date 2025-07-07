@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/joy226/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/joy226/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/joy226/LeetCode-Solutions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joy226/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/joy226/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/joy226/LeetCode-Solutions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/joy226/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/joy226/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/joy226/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/joy226/LeetCode-Solutions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [3647-zero-array-transformation-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
 |  |
