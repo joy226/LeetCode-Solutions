@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/joy226/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/joy226/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3582-find-indices-of-stable-mountains](https://github.com/joy226/LeetCode-Solutions/tree/master/3582-find-indices-of-stable-mountains) |
 | [3647-zero-array-transformation-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
