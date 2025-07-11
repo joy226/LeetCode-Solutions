@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2486-most-frequent-even-element](https://github.com/joy226/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
+| [2551-apply-operations-to-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/joy226/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/joy226/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/joy226/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/joy226/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2551-apply-operations-to-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/joy226/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/joy226/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/joy226/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2551-apply-operations-to-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Number Theory
 |  |
 | ------- |
