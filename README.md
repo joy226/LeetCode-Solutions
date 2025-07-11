@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/joy226/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3226-minimum-number-game](https://github.com/joy226/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/joy226/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3582-find-indices-of-stable-mountains](https://github.com/joy226/LeetCode-Solutions/tree/master/3582-find-indices-of-stable-mountains) |
 | [3647-zero-array-transformation-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/joy226/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/joy226/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3226-minimum-number-game](https://github.com/joy226/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/joy226/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/joy226/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [3226-minimum-number-game](https://github.com/joy226/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3226-minimum-number-game](https://github.com/joy226/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 | [3647-zero-array-transformation-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Combinatorics
 |  |
