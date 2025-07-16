@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3226-minimum-number-game](https://github.com/joy226/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/joy226/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/joy226/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/joy226/LeetCode-Solutions/tree/master/3582-find-indices-of-stable-mountains) |
 | [3647-zero-array-transformation-iii](https://github.com/joy226/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/joy226/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/joy226/LeetCode-Solutions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/joy226/LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/joy226/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
