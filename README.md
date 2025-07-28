@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/joy226/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/joy226/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/joy226/LeetCode-Solutions/tree/master/1205-defanging-an-ip-address) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/joy226/LeetCode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/joy226/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/joy226/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/joy226/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/joy226/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/joy226/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/joy226/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/joy226/LeetCode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/joy226/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/joy226/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Indexed Tree
