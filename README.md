@@ -400,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/joy226/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/joy226/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/joy226/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
