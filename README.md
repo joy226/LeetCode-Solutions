@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/joy226/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/joy226/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/joy226/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/joy226/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/joy226/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/joy226/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
