@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/joy226/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/joy226/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/joy226/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/joy226/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/joy226/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/joy226/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/joy226/LeetCode-Solutions/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/joy226/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/joy226/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/joy226/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/joy226/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/joy226/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/joy226/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/joy226/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/joy226/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/joy226/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/joy226/LeetCode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/joy226/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/joy226/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
