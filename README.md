@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/joy226/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/joy226/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/joy226/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/joy226/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/joy226/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/joy226/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/joy226/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/joy226/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/joy226/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joy226/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/joy226/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/joy226/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/joy226/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/joy226/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/joy226/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/joy226/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/joy226/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/joy226/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/joy226/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/joy226/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/joy226/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/joy226/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/joy226/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/joy226/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/joy226/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/joy226/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
